@@ -61,7 +61,7 @@ const Register = () => {
   };
 
   const handleRedirectLogin = () => {
-    navigate("/login");
+    navigate("/login");  
   };
 
   const handleSubmit = async (e) => {
@@ -82,8 +82,7 @@ const Register = () => {
         body
       );
       localStorage.setItem("token", response.data.authtoken);
-      navigate("/profile");
-      window.location.reload();
+       window.location.reload();
     } catch (error) {
       console.error("Registration failed:", error.response.data);
     }
