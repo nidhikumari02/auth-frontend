@@ -44,7 +44,7 @@ const Login = () => {
         formData
       );
       localStorage.setItem("token", response.data.authtoken);
-      navigate("/profile");
+      window.location.reload();
     } catch (error) {
       alert("error: " + error.response.data.message);
       console.error("Registration failed:", error.response.data);
