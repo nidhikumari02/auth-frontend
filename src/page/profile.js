@@ -41,8 +41,8 @@ const Profile = () => {
 
   const handleLogOut = () => {
     localStorage.removeItem("token");
-    alert("You have been logged out");
-    navigate("/login");
+    alert("You will be logged out");
+     window.location.reload();
   };
 
   const handleSubmit = async (e) => {
