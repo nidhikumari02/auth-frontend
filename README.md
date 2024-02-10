@@ -1,6 +1,8 @@
-https://drive.google.com/file/d/1N3Por0i04owhUzIsvlvKHDJVaQMvObnX/view
+Video Link : https://drive.google.com/file/d/1N3Por0i04owhUzIsvlvKHDJVaQMvObnX/view
 
-This section has moved here: [https://facebo![Screenshot (124)](https://github.com/nidhikumari02/auth-frontend/assets/122108296/5e3a2bdc-5640-475e-be5d-f8edbab60a6d)
+Deployment Images: 
+
+[https://facebo![Screenshot (124)](https://github.com/nidhikumari02/auth-frontend/assets/122108296/5e3a2bdc-5640-475e-be5d-f8edbab60a6d)
 ![Screenshot (126)](https://github.com/nidhikumari02/auth-frontend/assets/122108296/66dbe014-c892-489e-b93e-6c3791c6f54d)
 ![Screenshot (128)](https://github.com/nidhikumari02/auth-frontend/assets/122108296/060bb657-e7b9-4dc8-9c0b-840859fc23d3)
 ![Screenshot (132)](https://github.com/nidhikumari02/auth-frontend/assets/122108296/9d732f1c-2dc3-463a-bb93-93b09dd2cc90)
