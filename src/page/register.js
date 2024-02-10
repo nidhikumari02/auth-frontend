@@ -83,6 +83,7 @@ const Register = () => {
       );
       localStorage.setItem("token", response.data.authtoken);
       navigate("/profile");
+      window.location.reload();
     } catch (error) {
       console.error("Registration failed:", error.response.data);
     }
